@@ -1,0 +1,26 @@
+{
+  "name": "U.S. Civics Quiz – 2025",
+  "short_name": "Civics Quiz",
+  "description": "Official 128-question USCIS 2025 naturalization civics test prep",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06102a",
+  "theme_color": "#B22234",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "utilities"],
+  "lang": "en-US"
+}
